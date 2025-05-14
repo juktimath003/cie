@@ -1,4 +1,3 @@
-package cie;
 public class Even {
     public static void main(String[] args) {
         System.out.println("Even Numbers from 1 to 50:");
